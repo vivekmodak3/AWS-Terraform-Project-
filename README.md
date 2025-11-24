@@ -16,10 +16,10 @@ and interview preparation.
 
 ## 🚀 Features
 
--   Deploys an AWS S3 bucket configured for static website hosting\
--   Uploads a sample **portfolio HTML page**\
--   Infrastructure‑as‑Code using Terraform\
--   Clean, modular Terraform files (variables, outputs, provider)\
+-   Deploys an AWS S3 bucket configured for static website hosting
+-   Uploads a sample **portfolio HTML page**
+-   Infrastructure‑as‑Code using Terraform
+-   Clean, modular Terraform files (variables, outputs, provider)
 -   Includes Steps to Clone and deploy the apllication.
 
 ------------------------------------------------------------------------
@@ -40,8 +40,8 @@ and interview preparation.
 
 ### Prerequisites
 
--   Terraform installed\
--   AWS CLI configured\
+-   Terraform installed
+-   AWS CLI configured
 -   AWS account with S3 + IAM permissions
 
 ------------------------------------------------------------------------
@@ -78,10 +78,10 @@ and interview preparation.
 
 ## ⚙️ Extending This Project
 
--   Add CloudFront CDN for global caching\
--   Attach domain via Route 53\
--   Enable HTTPS using ACM\
--   Add GitHub Actions for Terraform CI/CD\
+-   Add CloudFront CDN for global caching
+-   Attach domain via Route 53
+-   Enable HTTPS using ACM
+-   Add GitHub Actions for Terraform CI/CD
 -   Add multi‑environment support (dev/stage/prod)
 
 ------------------------------------------------------------------------

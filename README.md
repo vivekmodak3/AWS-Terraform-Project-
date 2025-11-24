@@ -6,8 +6,8 @@ Terraform Project to deploy a static website on AWS S3
 **Interactive Terraform + AWS Static Website Deployment Project**
 
 This project provisions AWS infrastructure using Terraform and deploys a
-static website (HTML portfolio page). It is ideal for DevOps learners
-and interview preparation.
+static website (HTML portfolio page). It is ideal to get hands on with
+Terraform and AWS services.
 
 ------------------------------------------------------------------------
 

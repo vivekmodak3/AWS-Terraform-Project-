@@ -50,8 +50,8 @@ Terraform and AWS services.
 
 1️⃣ Clone the repo
 
-    git clone https://github.com/<your-username>/<your-repo>.git
-    cd AWS-Terraform-Project
+    https://github.com/vivekmodak3/AWS-Terraform-Project-.git
+    cd AWS-Terraform-Project-
 
 2️⃣ Initialize Terraform
 

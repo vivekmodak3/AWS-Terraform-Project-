@@ -20,7 +20,7 @@ and interview preparation.
 -   Uploads a sample **portfolio HTML page**\
 -   Infrastructure‑as‑Code using Terraform\
 -   Clean, modular Terraform files (variables, outputs, provider)\
--   Includes architecture diagram + extensible design
+-   Includes Steps to Clone and deploy the apllication.
 
 ------------------------------------------------------------------------
 

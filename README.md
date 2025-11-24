@@ -30,7 +30,7 @@ and interview preparation.
     ├── provider.tf
     ├── variables.tf
     ├── outputs.tf
-    ├── index.html        # Portfolio page you can upload to S3
+    ├── index (1).html        # Portfolio page you can upload to S3
     ├── error.html
     └── README.md
 

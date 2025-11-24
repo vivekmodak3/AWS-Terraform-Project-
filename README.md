@@ -51,7 +51,7 @@ and interview preparation.
 1️⃣ Clone the repo
 
     git clone https://github.com/<your-username>/<your-repo>.git
-    cd <your-repo>
+    cd AWS-Terraform-Project
 
 2️⃣ Initialize Terraform
 
